@@ -7,6 +7,6 @@ Requirements:
 
 Instructions:
 
-1. Download the files in this repository to a directory on your computer. e.g. 'git clone git://github.com/mblwhoi/reconciliation_service_skeleton.git recon_skeleton'
+1. Download the files in this repository to a directory on your computer. e.g. 'git clone git://github.com/adorsk/reconciliation_service_skeleton.git recon_skeleton'
 
 2. Run 'example_composers_reconciliation_service.py' e.g. 'cd recon_skelton; python example_composers_reconciliation_service.py'.  This will start a reconciliation service on port 5000 which you can use with Google Refine.
